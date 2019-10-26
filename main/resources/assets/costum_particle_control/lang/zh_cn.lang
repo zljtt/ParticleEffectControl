@@ -1,0 +1,45 @@
+
+
+item.originium.name= Originium
+item.longmen_coin.name= Longmen Coin
+
+
+tile.NAME.name= block name
+
+
+
+
+itemGroup.creativetab_blocks=方块
+itemGroup.creativetab_items=Name for item creativetab
+
+entity.NAME.name=
+
+container.costumparticle.control=粒子控制台
+
+
+text.particle.type=粒子ID
+text.particle.amount=数量
+text.particle.range=范围
+text.particle.model.1=环绕模式
+text.particle.model.2=直线模式 
+text.particle.model.3=离心模式
+text.particle.model.4=
+text.particle.model.default=模式
+
+
+text.particle.special_1.1=距离
+text.particle.special_2.1=速度
+
+text.particle.special_1.2=长度
+text.particle.special_2.2=高度
+
+text.particle.special_1.3=速度 
+text.particle.special_2.3=方向
+
+text.particle.special_1.4=
+text.particle.special_2.4=
+
+text.particle.special_1.default= 
+text.particle.special_2.default= 
+
+generater.NAME=

@@ -1,0 +1,49 @@
+
+
+item.originium.name= Originium
+item.longmen_coin.name= Longmen Coin
+
+
+tile.NAME.name= block name
+
+
+
+
+itemGroup.creativetab_blocks=Blocks
+itemGroup.creativetab_items=Name for item creativetab
+
+entity.NAME.name=
+
+container.costumparticle.control=PARTICLE CONTROL
+
+text.particle.type=Type
+text.particle.amount=Amount
+text.particle.range=Range
+text.particle.x=X
+text.particle.y=Y
+text.particle.z=Z
+text.particle.time=Time
+
+text.particle.model.1=ENCIRCLE
+text.particle.model.2=LINE 
+text.particle.model.3=SPREAD
+text.particle.model.4=
+text.particle.model.default=Model
+
+
+text.particle.special_1.1=Distance
+text.particle.special_2.1=Speed
+
+text.particle.special_1.2=Length
+text.particle.special_2.2=Height
+
+text.particle.special_1.3=Speed 
+text.particle.special_2.3=Direction
+
+text.particle.special_1.4=
+text.particle.special_2.4=
+
+text.particle.special_1.default= 
+text.particle.special_2.default= 
+
+generater.NAME=

@@ -1,0 +1,7 @@
+{
+    "variants": 
+    {
+    	"normal": { "model": "costum_particle_control:control" }
+    }
+}
+

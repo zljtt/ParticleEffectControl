@@ -1,0 +1,16 @@
+[
+{
+  "modid": "costum_particle_control",
+  "name": "ParticleControl",
+  "description": "Enchant particle effects to items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JWW"],
+  "credits": "Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

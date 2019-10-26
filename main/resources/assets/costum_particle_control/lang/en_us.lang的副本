@@ -1,0 +1,19 @@
+
+
+item.originium.name= Originium
+item.longmen_coin.name= Longmen Coin
+
+
+tile.NAME.name= block name
+
+
+
+
+itemGroup.creativetab_blocks=Name for block creativetab
+itemGroup.creativetab_items=Name for item creativetab
+
+entity.NAME.name=
+
+container.NAME=
+
+generater.NAME=

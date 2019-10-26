@@ -1,0 +1,16 @@
+
+
+
+item.ITEMNAME.name=物品名字
+
+tile.BLOCKNAME.name=方块名字
+
+
+itemGroup.creativetab_blocks=方块栏名字
+itemGroup.creativetab_items=物品栏名字
+
+entity.ENTITYNAME.name=
+
+container.CONTAINERNAME =
+
+generater.GENERATERNAME = 
